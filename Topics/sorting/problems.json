@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:17:21.323Z",
+  "updatedAt": "2026-10-13T05:19:13.259Z",
   "problems": [
     {
       "frontendId": "148",
@@ -584,6 +584,26 @@
           "path": "3684-maximize-sum-of-at-most-k-distinct-elements/3684-maximize-sum-of-at-most-k-distinct-elements.py",
           "sha": "655724b7dc5d0a2b136744855d3dd81e3739e21c",
           "lastSyncedAt": "2026-10-13T05:00:00.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "130acfd913594051a482a1cf7027144c2b94e58f",
+          "lastSyncedAt": "2026-10-13T05:19:13.259Z"
         }
       ]
     },
