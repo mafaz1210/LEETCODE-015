@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:09:48.782Z",
+  "updatedAt": "2026-10-13T05:10:34.451Z",
   "problems": [
     {
       "frontendId": "349",
@@ -144,6 +144,26 @@
           "path": "1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.py",
           "sha": "9fc23f14a359e1bf1574015d771cc9c657e12feb",
           "lastSyncedAt": "2026-10-13T05:05:39.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1738",
+      "title": "Find Kth Largest XOR Coordinate Value",
+      "slug": "find-kth-largest-xor-coordinate-value",
+      "problemName": "1738-find-kth-largest-xor-coordinate-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/",
+      "folderPath": "1738-find-kth-largest-xor-coordinate-value/",
+      "readmePath": "1738-find-kth-largest-xor-coordinate-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1738-find-kth-largest-xor-coordinate-value.py",
+          "path": "1738-find-kth-largest-xor-coordinate-value/1738-find-kth-largest-xor-coordinate-value.py",
+          "sha": "bed66517aa91527fc13e09aa7b1441b3e18a5804",
+          "lastSyncedAt": "2026-10-13T05:10:34.451Z"
         }
       ]
     },
