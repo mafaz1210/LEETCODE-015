@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:13:58.968Z",
+  "updatedAt": "2026-10-13T05:14:31.228Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "427",
+      "title": "Construct Quad Tree",
+      "slug": "construct-quad-tree",
+      "problemName": "0427-construct-quad-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-quad-tree/",
+      "folderPath": "0427-construct-quad-tree/",
+      "readmePath": "0427-construct-quad-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0427-construct-quad-tree.py",
+          "path": "0427-construct-quad-tree/0427-construct-quad-tree.py",
+          "sha": "9e67553cb2ee7b838265c9d3f9eea19ba0d318f5",
+          "lastSyncedAt": "2026-10-13T05:14:31.228Z"
         }
       ]
     },
