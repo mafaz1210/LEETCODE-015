@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:08:28.329Z",
+  "updatedAt": "2026-10-13T05:08:55.222Z",
   "problems": [
     {
       "frontendId": "121",
@@ -324,6 +324,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "11863c690abbfbd9518459650cfb744b2f223892",
           "lastSyncedAt": "2026-10-13T04:59:08.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1672-richest-customer-wealth.py",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.py",
+          "sha": "381456a8a116b40052fe4d486b57adf83fc19fcb",
+          "lastSyncedAt": "2026-10-13T05:08:55.222Z"
         }
       ]
     },
