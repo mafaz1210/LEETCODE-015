@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:02:28.640Z",
+  "updatedAt": "2026-10-13T05:02:36.937Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -44,6 +44,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "94435fed386daea65b0757348d5d584ae7ba2a9a",
           "lastSyncedAt": "2026-10-13T04:59:27.301Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "slug": "split-with-minimum-sum",
+      "problemName": "2578-split-with-minimum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+      "folderPath": "2578-split-with-minimum-sum/",
+      "readmePath": "2578-split-with-minimum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2578-split-with-minimum-sum.py",
+          "path": "2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
+          "sha": "455a516f89b173660240aac448561a4e8cfd6f3f",
+          "lastSyncedAt": "2026-10-13T05:02:36.937Z"
         }
       ]
     },
