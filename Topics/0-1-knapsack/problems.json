@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "0-1-knapsack",
+    "name": "0-1 Knapsack",
+    "tagId": "88229"
+  },
+  "updatedAt": "2026-10-13T05:21:04.075Z",
+  "problems": [
+    {
+      "frontendId": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "problemName": "0474-ones-and-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+      "folderPath": "0474-ones-and-zeroes/",
+      "readmePath": "0474-ones-and-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0474-ones-and-zeroes.cpp",
+          "path": "0474-ones-and-zeroes/0474-ones-and-zeroes.cpp",
+          "sha": "e875ee570ddf404b016293735e763e11d4f4a745",
+          "lastSyncedAt": "2026-10-13T05:21:04.075Z"
+        }
+      ]
+    }
+  ]
+}
