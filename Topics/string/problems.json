@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:03:58.973Z",
+  "updatedAt": "2026-10-13T05:04:48.539Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "f037ecc1a2ddd41845f2eb2fd8347ac1aebd87e2",
           "lastSyncedAt": "2026-10-13T04:58:59.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2027",
+      "title": "Minimum Moves to Convert String",
+      "slug": "minimum-moves-to-convert-string",
+      "problemName": "2027-minimum-moves-to-convert-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-convert-string/",
+      "folderPath": "2027-minimum-moves-to-convert-string/",
+      "readmePath": "2027-minimum-moves-to-convert-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2027-minimum-moves-to-convert-string.py",
+          "path": "2027-minimum-moves-to-convert-string/2027-minimum-moves-to-convert-string.py",
+          "sha": "c8713c3d0d1d0f134faf6eee02757122771c351a",
+          "lastSyncedAt": "2026-10-13T05:04:48.539Z"
         }
       ]
     },
