@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "tagId": "61053"
+  },
+  "updatedAt": "2026-10-13T05:00:53.611Z",
+  "problems": [
+    {
+      "frontendId": "3402",
+      "title": "Minimum Operations to Make Columns Strictly Increasing",
+      "slug": "minimum-operations-to-make-columns-strictly-increasing",
+      "problemName": "3402-minimum-operations-to-make-columns-strictly-increasing",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/",
+      "folderPath": "3402-minimum-operations-to-make-columns-strictly-increasing/",
+      "readmePath": "3402-minimum-operations-to-make-columns-strictly-increasing/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3402-minimum-operations-to-make-columns-strictly-increasing.py",
+          "path": "3402-minimum-operations-to-make-columns-strictly-increasing/3402-minimum-operations-to-make-columns-strictly-increasing.py",
+          "sha": "0874aa6cebeabe224a1476dbb32aa5136c0fcfec",
+          "lastSyncedAt": "2026-10-13T05:00:53.611Z"
+        }
+      ]
+    }
+  ]
+}
