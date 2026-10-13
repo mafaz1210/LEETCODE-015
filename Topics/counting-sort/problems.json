@@ -5,7 +5,7 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-10-13T05:07:45.071Z",
+  "updatedAt": "2026-10-13T05:12:53.014Z",
   "problems": [
     {
       "frontendId": "561",
@@ -24,6 +24,26 @@
           "path": "0561-array-partition/0561-array-partition.py",
           "sha": "0f1ba9566f83b01b8b14188966335ba4c04fc90e",
           "lastSyncedAt": "2026-10-13T05:07:45.071Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0912-sort-an-array.py",
+          "path": "0912-sort-an-array/0912-sort-an-array.py",
+          "sha": "6787043a579b2964c66e7fd880b716860ba3381c",
+          "lastSyncedAt": "2026-10-13T05:12:53.014Z"
         }
       ]
     },
