@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:01:12.762Z",
+  "updatedAt": "2026-10-13T05:01:52.193Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2706",
+      "title": "Buy Two Chocolates",
+      "slug": "buy-two-chocolates",
+      "problemName": "2706-buy-two-chocolates",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/buy-two-chocolates/",
+      "folderPath": "2706-buy-two-chocolates/",
+      "readmePath": "2706-buy-two-chocolates/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2706-buy-two-chocolates.py",
+          "path": "2706-buy-two-chocolates/2706-buy-two-chocolates.py",
+          "sha": "5f86f26cd91bcaea79544f4b5681647448dcc314",
+          "lastSyncedAt": "2026-10-13T05:01:52.193Z"
         }
       ]
     },
