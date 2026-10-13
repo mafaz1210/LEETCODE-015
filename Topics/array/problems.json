@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:02:54.959Z",
+  "updatedAt": "2026-10-13T05:03:08.985Z",
   "problems": [
     {
       "frontendId": "121",
@@ -104,6 +104,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "11863c690abbfbd9518459650cfb744b2f223892",
           "lastSyncedAt": "2026-10-13T04:59:08.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2383",
+      "title": "Minimum Hours of Training to Win a Competition",
+      "slug": "minimum-hours-of-training-to-win-a-competition",
+      "problemName": "2383-minimum-hours-of-training-to-win-a-competition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/",
+      "folderPath": "2383-minimum-hours-of-training-to-win-a-competition/",
+      "readmePath": "2383-minimum-hours-of-training-to-win-a-competition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2383-minimum-hours-of-training-to-win-a-competition.py",
+          "path": "2383-minimum-hours-of-training-to-win-a-competition/2383-minimum-hours-of-training-to-win-a-competition.py",
+          "sha": "d15dff8a30897ff24063e6f67ea89a5dac56d5c8",
+          "lastSyncedAt": "2026-10-13T05:03:08.985Z"
         }
       ]
     },
