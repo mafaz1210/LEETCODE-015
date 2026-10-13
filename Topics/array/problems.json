@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:05:39.620Z",
+  "updatedAt": "2026-10-13T05:05:51.191Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1403",
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "slug": "minimum-subsequence-in-non-increasing-order",
+      "problemName": "1403-minimum-subsequence-in-non-increasing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/",
+      "folderPath": "1403-minimum-subsequence-in-non-increasing-order/",
+      "readmePath": "1403-minimum-subsequence-in-non-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
+          "path": "1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
+          "sha": "020dad76a1c25eaefbb3a25063f2ae8207114367",
+          "lastSyncedAt": "2026-10-13T05:05:51.191Z"
         }
       ]
     },
