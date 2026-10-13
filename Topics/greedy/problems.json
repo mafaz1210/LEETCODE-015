@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:08:11.084Z",
+  "updatedAt": "2026-10-13T05:10:56.167Z",
   "problems": [
     {
       "frontendId": "409",
@@ -264,6 +264,26 @@
           "path": "1323-maximum-69-number/1323-maximum-69-number.py",
           "sha": "a08ce7a6e4695b1756f10f372ee008ad0e96d8f8",
           "lastSyncedAt": "2026-10-13T05:06:00.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1382-balance-a-binary-search-tree.py",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
+          "sha": "120ddf28d6a680e8fd76375c643d69f2198afc31",
+          "lastSyncedAt": "2026-10-13T05:10:56.167Z"
         }
       ]
     },
