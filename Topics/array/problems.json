@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:12:13.336Z",
+  "updatedAt": "2026-10-13T05:12:30.582Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "0860-lemonade-change/0860-lemonade-change.py",
           "sha": "77e19090a82593ea0f10887a0a4cac232beaaa43",
           "lastSyncedAt": "2026-10-13T05:07:18.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "918",
+      "title": "Maximum Sum Circular Subarray",
+      "slug": "maximum-sum-circular-subarray",
+      "problemName": "0918-maximum-sum-circular-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+      "folderPath": "0918-maximum-sum-circular-subarray/",
+      "readmePath": "0918-maximum-sum-circular-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0918-maximum-sum-circular-subarray.py",
+          "path": "0918-maximum-sum-circular-subarray/0918-maximum-sum-circular-subarray.py",
+          "sha": "0afbc049ad504b0248a25d017c11c74d687f636e",
+          "lastSyncedAt": "2026-10-13T05:12:30.582Z"
         }
       ]
     },
