@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:17:53.175Z",
+  "updatedAt": "2026-10-13T05:18:03.312Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "2fb6135851f99ef1d75ab61f760be032269c5848",
           "lastSyncedAt": "2026-10-13T05:17:53.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.py",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
+          "sha": "c12ff678fe23d24b3fdd96cfe85fbbcf3421f743",
+          "lastSyncedAt": "2026-10-13T05:18:03.312Z"
         }
       ]
     },
