@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-13T05:03:47.999Z",
+  "updatedAt": "2026-10-13T05:20:14.908Z",
   "problems": [
     {
       "frontendId": "2259",
@@ -24,6 +24,26 @@
           "path": "2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py",
           "sha": "75a1efed702ceab757c337a6b1d7a7e466b1810f",
           "lastSyncedAt": "2026-10-13T05:03:47.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3234",
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "slug": "count-the-number-of-substrings-with-dominant-ones",
+      "problemName": "3234-count-the-number-of-substrings-with-dominant-ones",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/",
+      "folderPath": "3234-count-the-number-of-substrings-with-dominant-ones/",
+      "readmePath": "3234-count-the-number-of-substrings-with-dominant-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3234-count-the-number-of-substrings-with-dominant-ones.cpp",
+          "path": "3234-count-the-number-of-substrings-with-dominant-ones/3234-count-the-number-of-substrings-with-dominant-ones.cpp",
+          "sha": "8bf715aa1ba66f034cb98edc7a8b3109c75593a0",
+          "lastSyncedAt": "2026-10-13T05:20:14.908Z"
         }
       ]
     },
