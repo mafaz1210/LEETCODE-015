@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer",
+    "tagId": "12"
+  },
+  "updatedAt": "2026-10-13T05:08:28.329Z",
+  "problems": [
+    {
+      "frontendId": "307",
+      "title": "Range Sum Query - Mutable",
+      "slug": "range-sum-query-mutable",
+      "problemName": "0307-range-sum-query-mutable",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-mutable/",
+      "folderPath": "0307-range-sum-query-mutable/",
+      "readmePath": "0307-range-sum-query-mutable/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0307-range-sum-query-mutable.py",
+          "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
+          "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
+          "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    }
+  ]
+}
