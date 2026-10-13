@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:05:39.620Z",
+  "updatedAt": "2026-10-13T05:05:51.191Z",
   "problems": [
+    {
+      "frontendId": "1403",
+      "title": "Minimum Subsequence in Non-Increasing Order",
+      "slug": "minimum-subsequence-in-non-increasing-order",
+      "problemName": "1403-minimum-subsequence-in-non-increasing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/",
+      "folderPath": "1403-minimum-subsequence-in-non-increasing-order/",
+      "readmePath": "1403-minimum-subsequence-in-non-increasing-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1403-minimum-subsequence-in-non-increasing-order.py",
+          "path": "1403-minimum-subsequence-in-non-increasing-order/1403-minimum-subsequence-in-non-increasing-order.py",
+          "sha": "020dad76a1c25eaefbb3a25063f2ae8207114367",
+          "lastSyncedAt": "2026-10-13T05:05:51.191Z"
+        }
+      ]
+    },
     {
       "frontendId": "1710",
       "title": "Maximum Units on a Truck",
