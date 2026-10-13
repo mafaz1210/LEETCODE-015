@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:04:59.170Z",
+  "updatedAt": "2026-10-13T05:05:10.537Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "f037ecc1a2ddd41845f2eb2fd8347ac1aebd87e2",
           "lastSyncedAt": "2026-10-13T04:58:59.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "1903-largest-odd-number-in-string/",
+      "readmePath": "1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1903-largest-odd-number-in-string.py",
+          "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.py",
+          "sha": "bb2e6a38de961bf54c2354f26153681747cdbf2b",
+          "lastSyncedAt": "2026-10-13T05:05:10.537Z"
         }
       ]
     },
