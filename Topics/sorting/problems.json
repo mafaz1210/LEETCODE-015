@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T04:59:47.360Z",
+  "updatedAt": "2026-10-13T05:00:00.739Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3684",
+      "title": "Maximize Sum of At Most K Distinct Elements",
+      "slug": "maximize-sum-of-at-most-k-distinct-elements",
+      "problemName": "3684-maximize-sum-of-at-most-k-distinct-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/",
+      "folderPath": "3684-maximize-sum-of-at-most-k-distinct-elements/",
+      "readmePath": "3684-maximize-sum-of-at-most-k-distinct-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3684-maximize-sum-of-at-most-k-distinct-elements.py",
+          "path": "3684-maximize-sum-of-at-most-k-distinct-elements/3684-maximize-sum-of-at-most-k-distinct-elements.py",
+          "sha": "655724b7dc5d0a2b136744855d3dd81e3739e21c",
+          "lastSyncedAt": "2026-10-13T05:00:00.739Z"
         }
       ]
     },
