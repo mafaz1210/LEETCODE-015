@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:02:47.275Z",
+  "updatedAt": "2026-10-13T05:02:54.959Z",
   "problems": [
+    {
+      "frontendId": "2389",
+      "title": "Longest Subsequence With Limited Sum",
+      "slug": "longest-subsequence-with-limited-sum",
+      "problemName": "2389-longest-subsequence-with-limited-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-limited-sum/",
+      "folderPath": "2389-longest-subsequence-with-limited-sum/",
+      "readmePath": "2389-longest-subsequence-with-limited-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2389-longest-subsequence-with-limited-sum.py",
+          "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
+          "sha": "0a1ebe935bb03e9ad17a6ba95a254f31595b84b2",
+          "lastSyncedAt": "2026-10-13T05:02:54.959Z"
+        }
+      ]
+    },
     {
       "frontendId": "2566",
       "title": "Maximum Difference by Remapping a Digit",
