@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:16:28.992Z",
+  "updatedAt": "2026-10-13T05:16:44.663Z",
   "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0191-number-of-1-bits.py",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
+          "sha": "d3f0bb6df9bf5baee272f6e1eefcbfa35475ce40",
+          "lastSyncedAt": "2026-10-13T05:16:44.663Z"
+        }
+      ]
+    },
     {
       "frontendId": "215",
       "title": "Kth Largest Element in an Array",
