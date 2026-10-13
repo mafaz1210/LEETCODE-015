@@ -5,8 +5,28 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-13T04:59:47.360Z",
+  "updatedAt": "2026-10-13T05:03:47.999Z",
   "problems": [
+    {
+      "frontendId": "2259",
+      "title": "Remove Digit From Number to Maximize Result",
+      "slug": "remove-digit-from-number-to-maximize-result",
+      "problemName": "2259-remove-digit-from-number-to-maximize-result",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/",
+      "folderPath": "2259-remove-digit-from-number-to-maximize-result/",
+      "readmePath": "2259-remove-digit-from-number-to-maximize-result/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2259-remove-digit-from-number-to-maximize-result.py",
+          "path": "2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py",
+          "sha": "75a1efed702ceab757c337a6b1d7a7e466b1810f",
+          "lastSyncedAt": "2026-10-13T05:03:47.999Z"
+        }
+      ]
+    },
     {
       "frontendId": "3745",
       "title": "Maximize Expression of Three Elements",
