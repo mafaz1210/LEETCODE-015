@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:20:22.283Z",
+  "updatedAt": "2026-10-13T05:20:43.478Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1084,6 +1084,26 @@
           "path": "2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.cpp",
           "sha": "ff8d53fa0f39ae763d8bc3e91cbfece87853d7fc",
           "lastSyncedAt": "2026-10-13T05:20:22.283Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2654",
+      "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+      "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "problemName": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+      "folderPath": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+      "readmePath": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp",
+          "path": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp",
+          "sha": "fb4800b99d24cc6ef3e41eb6a70065f30539f0bf",
+          "lastSyncedAt": "2026-10-13T05:20:43.478Z"
         }
       ]
     },
