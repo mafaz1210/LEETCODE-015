@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:07:45.071Z",
+  "updatedAt": "2026-10-13T05:07:57.156Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "0455-assign-cookies/",
+      "readmePath": "0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0455-assign-cookies.py",
+          "path": "0455-assign-cookies/0455-assign-cookies.py",
+          "sha": "7fafbe8ee192906ec6898dd09242a69542b43882",
+          "lastSyncedAt": "2026-10-13T05:07:57.156Z"
         }
       ]
     },
