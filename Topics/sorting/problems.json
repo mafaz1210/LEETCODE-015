@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:02:54.959Z",
+  "updatedAt": "2026-10-13T05:03:16.930Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2357",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "slug": "make-array-zero-by-subtracting-equal-amounts",
+      "problemName": "2357-make-array-zero-by-subtracting-equal-amounts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+      "folderPath": "2357-make-array-zero-by-subtracting-equal-amounts/",
+      "readmePath": "2357-make-array-zero-by-subtracting-equal-amounts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "path": "2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "sha": "76b9d23c51e7cf492b557fbe5026fd1bfcf47a0b",
+          "lastSyncedAt": "2026-10-13T05:03:16.930Z"
         }
       ]
     },
