@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:11:34.359Z",
+  "updatedAt": "2026-10-13T05:12:00.886Z",
   "problems": [
+    {
+      "frontendId": "932",
+      "title": "Beautiful Array",
+      "slug": "beautiful-array",
+      "problemName": "0932-beautiful-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/beautiful-array/",
+      "folderPath": "0932-beautiful-array/",
+      "readmePath": "0932-beautiful-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0932-beautiful-array.py",
+          "path": "0932-beautiful-array/0932-beautiful-array.py",
+          "sha": "8db59dc0ac5bdf982bc2f7b8789c3b98d89568a8",
+          "lastSyncedAt": "2026-10-13T05:12:00.886Z"
+        }
+      ]
+    },
     {
       "frontendId": "973",
       "title": "K Closest Points to Origin",
