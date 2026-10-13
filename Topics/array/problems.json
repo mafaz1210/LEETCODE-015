@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:05:51.191Z",
+  "updatedAt": "2026-10-13T05:06:18.842Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1217",
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "problemName": "1217-minimum-cost-to-move-chips-to-the-same-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/",
+      "folderPath": "1217-minimum-cost-to-move-chips-to-the-same-position/",
+      "readmePath": "1217-minimum-cost-to-move-chips-to-the-same-position/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "path": "1217-minimum-cost-to-move-chips-to-the-same-position/1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "sha": "83daafe35c0036e1c2d0024f5ab682a554ed3d3d",
+          "lastSyncedAt": "2026-10-13T05:06:18.842Z"
         }
       ]
     },
