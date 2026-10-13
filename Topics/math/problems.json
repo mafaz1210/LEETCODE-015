@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T04:59:18.480Z",
+  "updatedAt": "2026-10-13T04:59:27.301Z",
   "problems": [
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.cpp",
+          "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
+          "sha": "94435fed386daea65b0757348d5d584ae7ba2a9a",
+          "lastSyncedAt": "2026-10-13T04:59:27.301Z"
+        }
+      ]
+    },
     {
       "frontendId": "3550",
       "title": "Smallest Index With Digit Sum Equal to Index",
