@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:04:34.488Z",
+  "updatedAt": "2026-10-13T05:05:39.620Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1710",
+      "title": "Maximum Units on a Truck",
+      "slug": "maximum-units-on-a-truck",
+      "problemName": "1710-maximum-units-on-a-truck",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-units-on-a-truck/",
+      "folderPath": "1710-maximum-units-on-a-truck/",
+      "readmePath": "1710-maximum-units-on-a-truck/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1710-maximum-units-on-a-truck.py",
+          "path": "1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.py",
+          "sha": "9fc23f14a359e1bf1574015d771cc9c657e12feb",
+          "lastSyncedAt": "2026-10-13T05:05:39.620Z"
         }
       ]
     },
