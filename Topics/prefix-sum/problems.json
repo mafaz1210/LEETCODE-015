@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T05:13:38.173Z",
+  "updatedAt": "2026-10-13T05:18:49.601Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -64,6 +64,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "0a1ebe935bb03e9ad17a6ba95a254f31595b84b2",
           "lastSyncedAt": "2026-10-13T05:02:54.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3129",
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "problemName": "3129-find-all-possible-stable-binary-arrays-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+      "folderPath": "3129-find-all-possible-stable-binary-arrays-i/",
+      "readmePath": "3129-find-all-possible-stable-binary-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3129-find-all-possible-stable-binary-arrays-i.py",
+          "path": "3129-find-all-possible-stable-binary-arrays-i/3129-find-all-possible-stable-binary-arrays-i.py",
+          "sha": "5783fe29211b39dbc0068a4420c409959422a805",
+          "lastSyncedAt": "2026-10-13T05:18:49.601Z"
         }
       ]
     },
