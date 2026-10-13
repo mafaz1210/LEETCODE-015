@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:08:21.729Z",
+  "updatedAt": "2026-10-13T05:11:34.359Z",
   "problems": [
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0973-k-closest-points-to-origin.py",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.py",
+          "sha": "a37741d92846683bd71db43ef52ed7580a711ae9",
+          "lastSyncedAt": "2026-10-13T05:11:34.359Z"
+        }
+      ]
+    },
     {
       "frontendId": "976",
       "title": "Largest Perimeter Triangle",
