@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-10-13T05:18:57.388Z",
+  "problems": [
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1980-find-unique-binary-string.py",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.py",
+          "sha": "f3c1a07ab42ba41fb45420b8db4db55f1e2a0f7e",
+          "lastSyncedAt": "2026-10-13T05:18:57.388Z"
+        }
+      ]
+    }
+  ]
+}
