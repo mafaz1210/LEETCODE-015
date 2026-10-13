@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:01:52.193Z",
+  "updatedAt": "2026-10-13T05:02:36.937Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "slug": "split-with-minimum-sum",
+      "problemName": "2578-split-with-minimum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+      "folderPath": "2578-split-with-minimum-sum/",
+      "readmePath": "2578-split-with-minimum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2578-split-with-minimum-sum.py",
+          "path": "2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
+          "sha": "455a516f89b173660240aac448561a4e8cfd6f3f",
+          "lastSyncedAt": "2026-10-13T05:02:36.937Z"
         }
       ]
     },
