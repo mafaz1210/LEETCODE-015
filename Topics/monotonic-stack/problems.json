@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack",
+    "tagId": "61054"
+  },
+  "updatedAt": "2026-10-13T05:13:58.968Z",
+  "problems": [
+    {
+      "frontendId": "654",
+      "title": "Maximum Binary Tree",
+      "slug": "maximum-binary-tree",
+      "problemName": "0654-maximum-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+      "folderPath": "0654-maximum-binary-tree/",
+      "readmePath": "0654-maximum-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0654-maximum-binary-tree.py",
+          "path": "0654-maximum-binary-tree/0654-maximum-binary-tree.py",
+          "sha": "c87e75fe0c11879ec3e74775e83a06bd9fcf2be7",
+          "lastSyncedAt": "2026-10-13T05:13:58.968Z"
+        }
+      ]
+    }
+  ]
+}
