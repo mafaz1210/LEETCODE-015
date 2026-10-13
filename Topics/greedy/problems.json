@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:20:33.034Z",
+  "updatedAt": "2026-10-13T05:21:23.931Z",
   "problems": [
     {
       "frontendId": "324",
@@ -944,6 +944,26 @@
           "path": "3487-maximum-unique-subarray-sum-after-deletion/3487-maximum-unique-subarray-sum-after-deletion.py",
           "sha": "c3ee544ff8a4e3889de4969074b795a0032a692f",
           "lastSyncedAt": "2026-10-13T05:00:44.191Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3542",
+      "title": "Minimum Operations to Convert All Elements to Zero",
+      "slug": "minimum-operations-to-convert-all-elements-to-zero",
+      "problemName": "3542-minimum-operations-to-convert-all-elements-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/",
+      "folderPath": "3542-minimum-operations-to-convert-all-elements-to-zero/",
+      "readmePath": "3542-minimum-operations-to-convert-all-elements-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3542-minimum-operations-to-convert-all-elements-to-zero.cpp",
+          "path": "3542-minimum-operations-to-convert-all-elements-to-zero/3542-minimum-operations-to-convert-all-elements-to-zero.cpp",
+          "sha": "d0b355a7f4464ae32f9a90086f5a3b2ca8b3c53a",
+          "lastSyncedAt": "2026-10-13T05:21:23.931Z"
         }
       ]
     },
