@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T05:14:31.228Z",
+  "updatedAt": "2026-10-13T05:16:14.357Z",
   "problems": [
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0240-search-a-2d-matrix-ii.py",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.py",
+          "sha": "9e0d9721c0f4e1f31f4e48c5ea3300d53476957c",
+          "lastSyncedAt": "2026-10-13T05:16:14.357Z"
+        }
+      ]
+    },
     {
       "frontendId": "427",
       "title": "Construct Quad Tree",
