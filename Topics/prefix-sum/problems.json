@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T05:11:21.664Z",
+  "updatedAt": "2026-10-13T05:12:13.336Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -84,6 +84,26 @@
           "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.py",
           "sha": "58f4a6d015d75440f9d12ad85badbcc55035392a",
           "lastSyncedAt": "2026-10-13T05:11:21.664Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3719-longest-balanced-subarray-i.py",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.py",
+          "sha": "72b5b400f1e2775134e8a98671842935931518f4",
+          "lastSyncedAt": "2026-10-13T05:12:13.336Z"
         }
       ]
     }
