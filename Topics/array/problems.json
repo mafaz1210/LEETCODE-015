@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:06:47.003Z",
+  "updatedAt": "2026-10-13T05:07:06.882Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "942",
+      "title": "DI String Match",
+      "slug": "di-string-match",
+      "problemName": "0942-di-string-match",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/di-string-match/",
+      "folderPath": "0942-di-string-match/",
+      "readmePath": "0942-di-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0942-di-string-match.py",
+          "path": "0942-di-string-match/0942-di-string-match.py",
+          "sha": "2f53d28fb6993f7d6568ca14b54e3f11d0a5f40b",
+          "lastSyncedAt": "2026-10-13T05:07:06.882Z"
         }
       ]
     },
