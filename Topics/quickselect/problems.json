@@ -5,8 +5,28 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-10-13T05:15:58.580Z",
+  "updatedAt": "2026-10-13T05:16:28.992Z",
   "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0215-kth-largest-element-in-an-array.py",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+          "sha": "7b0b8e139b25b3244d72da7dd131a8609ae3bb69",
+          "lastSyncedAt": "2026-10-13T05:16:28.992Z"
+        }
+      ]
+    },
     {
       "frontendId": "324",
       "title": "Wiggle Sort II",
