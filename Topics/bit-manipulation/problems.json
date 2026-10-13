@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:16:53.619Z",
+  "updatedAt": "2026-10-13T05:22:10.426Z",
   "problems": [
     {
       "frontendId": "190",
@@ -44,6 +44,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "d3f0bb6df9bf5baee272f6e1eefcbfa35475ce40",
           "lastSyncedAt": "2026-10-13T05:16:44.663Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0405-convert-a-number-to-hexadecimal.cpp",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.cpp",
+          "sha": "3cbc9f3aa7dc212e3d3a627440dcb0c76053e0a2",
+          "lastSyncedAt": "2026-10-13T05:22:10.426Z"
         }
       ]
     },
