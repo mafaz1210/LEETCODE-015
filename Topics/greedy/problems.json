@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:15:58.580Z",
+  "updatedAt": "2026-10-13T05:20:33.034Z",
   "problems": [
     {
       "frontendId": "324",
@@ -884,6 +884,26 @@
           "path": "3216-lexicographically-smallest-string-after-a-swap/3216-lexicographically-smallest-string-after-a-swap.py",
           "sha": "f5447396775316a7a3ce5938ed19e833704b6a30",
           "lastSyncedAt": "2026-10-13T05:01:06.002Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3228",
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+      "problemName": "3228-maximum-number-of-operations-to-move-ones-to-the-end",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+      "folderPath": "3228-maximum-number-of-operations-to-move-ones-to-the-end/",
+      "readmePath": "3228-maximum-number-of-operations-to-move-ones-to-the-end/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp",
+          "path": "3228-maximum-number-of-operations-to-move-ones-to-the-end/3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp",
+          "sha": "652f4de1cd0d9fd3f6ec14c9adb6d3fbc27dbfb1",
+          "lastSyncedAt": "2026-10-13T05:20:33.034Z"
         }
       ]
     },
