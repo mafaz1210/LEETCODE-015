@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:06:47.003Z",
+  "updatedAt": "2026-10-13T05:07:45.071Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "0561-array-partition/",
+      "readmePath": "0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0561-array-partition.py",
+          "path": "0561-array-partition/0561-array-partition.py",
+          "sha": "0f1ba9566f83b01b8b14188966335ba4c04fc90e",
+          "lastSyncedAt": "2026-10-13T05:07:45.071Z"
         }
       ]
     },
