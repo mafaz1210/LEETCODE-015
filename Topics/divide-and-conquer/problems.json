@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:13:22.814Z",
+  "updatedAt": "2026-10-13T05:13:38.173Z",
   "problems": [
     {
       "frontendId": "307",
@@ -284,6 +284,26 @@
           "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.py",
           "sha": "72b5b400f1e2775134e8a98671842935931518f4",
           "lastSyncedAt": "2026-10-13T05:12:13.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3737-count-subarrays-with-majority-element-i.py",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
+          "sha": "6517d3933bc8dcb7866c79b00d8fe003b042e411",
+          "lastSyncedAt": "2026-10-13T05:13:38.173Z"
         }
       ]
     }
