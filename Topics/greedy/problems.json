@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:06:18.842Z",
+  "updatedAt": "2026-10-13T05:06:29.492Z",
   "problems": [
+    {
+      "frontendId": "1013",
+      "title": "Partition Array Into Three Parts With Equal Sum",
+      "slug": "partition-array-into-three-parts-with-equal-sum",
+      "problemName": "1013-partition-array-into-three-parts-with-equal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/",
+      "folderPath": "1013-partition-array-into-three-parts-with-equal-sum/",
+      "readmePath": "1013-partition-array-into-three-parts-with-equal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1013-partition-array-into-three-parts-with-equal-sum.py",
+          "path": "1013-partition-array-into-three-parts-with-equal-sum/1013-partition-array-into-three-parts-with-equal-sum.py",
+          "sha": "2d8e14d4db1579cd17ce91134595b4d9b8ce429c",
+          "lastSyncedAt": "2026-10-13T05:06:29.492Z"
+        }
+      ]
+    },
     {
       "frontendId": "1217",
       "title": "Minimum Cost to Move Chips to The Same Position",
