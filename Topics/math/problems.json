@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:02:21.167Z",
+  "updatedAt": "2026-10-13T05:02:28.640Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -44,6 +44,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "94435fed386daea65b0757348d5d584ae7ba2a9a",
           "lastSyncedAt": "2026-10-13T04:59:27.301Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2591",
+      "title": "Distribute Money to Maximum Children",
+      "slug": "distribute-money-to-maximum-children",
+      "problemName": "2591-distribute-money-to-maximum-children",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-money-to-maximum-children/",
+      "folderPath": "2591-distribute-money-to-maximum-children/",
+      "readmePath": "2591-distribute-money-to-maximum-children/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2591-distribute-money-to-maximum-children.py",
+          "path": "2591-distribute-money-to-maximum-children/2591-distribute-money-to-maximum-children.py",
+          "sha": "48a6b77d91814ee3100474a9ab0537103cdf8c0a",
+          "lastSyncedAt": "2026-10-13T05:02:28.640Z"
         }
       ]
     },
