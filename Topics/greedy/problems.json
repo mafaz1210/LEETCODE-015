@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "tagId": "17"
+  },
+  "updatedAt": "2026-10-13T04:59:38.324Z",
+  "problems": [
+    {
+      "frontendId": "4000",
+      "title": "Largest Integer With Given Digit Sum",
+      "slug": "largest-integer-with-given-digit-sum",
+      "problemName": "4000-largest-integer-with-given-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-integer-with-given-digit-sum/",
+      "folderPath": "4000-largest-integer-with-given-digit-sum/",
+      "readmePath": "4000-largest-integer-with-given-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "4000-largest-integer-with-given-digit-sum.py",
+          "path": "4000-largest-integer-with-given-digit-sum/4000-largest-integer-with-given-digit-sum.py",
+          "sha": "2d7b97b9eb0d79ad156f636e9e8be69b2fd67e66",
+          "lastSyncedAt": "2026-10-13T04:59:38.324Z"
+        }
+      ]
+    }
+  ]
+}
