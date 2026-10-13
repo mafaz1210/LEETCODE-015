@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:15:02.358Z",
+  "updatedAt": "2026-10-13T05:15:36.251Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
           "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
           "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "0347-top-k-frequent-elements/",
+      "readmePath": "0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+          "sha": "a284713c39208939290a24c79ae68918813fb4ea",
+          "lastSyncedAt": "2026-10-13T05:15:36.251Z"
         }
       ]
     },
