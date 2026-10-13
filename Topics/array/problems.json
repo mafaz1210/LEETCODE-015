@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:09:26.044Z",
+  "updatedAt": "2026-10-13T05:09:48.782Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "1827-minimum-operations-to-make-the-array-increasing/1827-minimum-operations-to-make-the-array-increasing.py",
           "sha": "0c085b16129c5a9bc71a1c5e65ec0d4048b5b448",
           "lastSyncedAt": "2026-10-13T05:05:23.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1985",
+      "title": "Find the Kth Largest Integer in the Array",
+      "slug": "find-the-kth-largest-integer-in-the-array",
+      "problemName": "1985-find-the-kth-largest-integer-in-the-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/",
+      "folderPath": "1985-find-the-kth-largest-integer-in-the-array/",
+      "readmePath": "1985-find-the-kth-largest-integer-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1985-find-the-kth-largest-integer-in-the-array.py",
+          "path": "1985-find-the-kth-largest-integer-in-the-array/1985-find-the-kth-largest-integer-in-the-array.py",
+          "sha": "2c05f73105fbcd1aa1fb41d83891254b4719ba69",
+          "lastSyncedAt": "2026-10-13T05:09:48.782Z"
         }
       ]
     },
