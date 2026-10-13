@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-13T05:16:14.357Z",
+  "updatedAt": "2026-10-13T05:19:43.681Z",
   "problems": [
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0035-search-insert-position.py",
+          "path": "0035-search-insert-position/0035-search-insert-position.py",
+          "sha": "a307e9d6b6e104a2b6f70e90747b9bd03d501bc4",
+          "lastSyncedAt": "2026-10-13T05:19:43.681Z"
+        }
+      ]
+    },
     {
       "frontendId": "240",
       "title": "Search a 2D Matrix II",
