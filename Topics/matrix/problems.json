@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T05:08:55.222Z",
+  "updatedAt": "2026-10-13T05:10:04.040Z",
   "problems": [
     {
       "frontendId": "1672",
@@ -44,6 +44,26 @@
           "path": "3402-minimum-operations-to-make-columns-strictly-increasing/3402-minimum-operations-to-make-columns-strictly-increasing.py",
           "sha": "0874aa6cebeabe224a1476dbb32aa5136c0fcfec",
           "lastSyncedAt": "2026-10-13T05:00:53.611Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3537",
+      "title": "Fill a Special Grid",
+      "slug": "fill-a-special-grid",
+      "problemName": "3537-fill-a-special-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fill-a-special-grid/",
+      "folderPath": "3537-fill-a-special-grid/",
+      "readmePath": "3537-fill-a-special-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3537-fill-a-special-grid.py",
+          "path": "3537-fill-a-special-grid/3537-fill-a-special-grid.py",
+          "sha": "71fa69ab3b0589619f4e79c1e8b1e699faa0a08d",
+          "lastSyncedAt": "2026-10-13T05:10:04.040Z"
         }
       ]
     }
