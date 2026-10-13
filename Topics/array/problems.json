@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T04:59:18.480Z",
+  "updatedAt": "2026-10-13T04:59:47.360Z",
   "problems": [
     {
       "frontendId": "121",
@@ -124,6 +124,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.cpp",
           "sha": "b2fac5f84843ba853d637e6b7d4864808cc312c2",
           "lastSyncedAt": "2026-10-13T04:59:18.480Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3745",
+      "title": "Maximize Expression of Three Elements",
+      "slug": "maximize-expression-of-three-elements",
+      "problemName": "3745-maximize-expression-of-three-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-expression-of-three-elements/",
+      "folderPath": "3745-maximize-expression-of-three-elements/",
+      "readmePath": "3745-maximize-expression-of-three-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3745-maximize-expression-of-three-elements.py",
+          "path": "3745-maximize-expression-of-three-elements/3745-maximize-expression-of-three-elements.py",
+          "sha": "38015dc565d7c3065221fa1b1335224a4f223abe",
+          "lastSyncedAt": "2026-10-13T04:59:47.360Z"
         }
       ]
     }
