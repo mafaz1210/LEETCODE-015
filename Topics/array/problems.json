@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:12:00.886Z",
+  "updatedAt": "2026-10-13T05:12:13.336Z",
   "problems": [
     {
       "frontendId": "1",
@@ -884,6 +884,26 @@
           "path": "3684-maximize-sum-of-at-most-k-distinct-elements/3684-maximize-sum-of-at-most-k-distinct-elements.py",
           "sha": "655724b7dc5d0a2b136744855d3dd81e3739e21c",
           "lastSyncedAt": "2026-10-13T05:00:00.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3719-longest-balanced-subarray-i.py",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.py",
+          "sha": "72b5b400f1e2775134e8a98671842935931518f4",
+          "lastSyncedAt": "2026-10-13T05:12:13.336Z"
         }
       ]
     },
