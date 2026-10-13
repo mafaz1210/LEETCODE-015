@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T04:57:48.060Z",
+  "updatedAt": "2026-10-13T04:58:07.517Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "232e154d8013f2a096bfe450b7b5b88f34e2bd5c",
+          "lastSyncedAt": "2026-10-13T04:58:07.517Z"
+        }
+      ]
+    },
     {
       "frontendId": "709",
       "title": "To Lower Case",
