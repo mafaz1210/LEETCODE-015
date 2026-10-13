@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:14:48.533Z",
+  "updatedAt": "2026-10-13T05:18:57.388Z",
   "problems": [
     {
       "frontendId": "14",
@@ -264,6 +264,26 @@
           "path": "1974-minimum-time-to-type-word-using-special-typewriter/1974-minimum-time-to-type-word-using-special-typewriter.py",
           "sha": "66e6cfaac1752da50abb733025308745cff5b6d4",
           "lastSyncedAt": "2026-10-13T05:04:59.170Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1980-find-unique-binary-string.py",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.py",
+          "sha": "f3c1a07ab42ba41fb45420b8db4db55f1e2a0f7e",
+          "lastSyncedAt": "2026-10-13T05:18:57.388Z"
         }
       ]
     },
