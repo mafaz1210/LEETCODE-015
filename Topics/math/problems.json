@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:06:18.842Z",
+  "updatedAt": "2026-10-13T05:06:47.003Z",
   "problems": [
+    {
+      "frontendId": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "problemName": "0976-largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-perimeter-triangle/",
+      "folderPath": "0976-largest-perimeter-triangle/",
+      "readmePath": "0976-largest-perimeter-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0976-largest-perimeter-triangle.py",
+          "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
+          "sha": "82c2491b567047486a9bdedabdff23f83fcb8d61",
+          "lastSyncedAt": "2026-10-13T05:06:47.003Z"
+        }
+      ]
+    },
     {
       "frontendId": "1217",
       "title": "Minimum Cost to Move Chips to The Same Position",
