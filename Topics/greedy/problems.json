@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:01:06.002Z",
+  "updatedAt": "2026-10-13T05:01:12.762Z",
   "problems": [
+    {
+      "frontendId": "3074",
+      "title": "Apple Redistribution into Boxes",
+      "slug": "apple-redistribution-into-boxes",
+      "problemName": "3074-apple-redistribution-into-boxes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+      "folderPath": "3074-apple-redistribution-into-boxes/",
+      "readmePath": "3074-apple-redistribution-into-boxes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3074-apple-redistribution-into-boxes.py",
+          "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.py",
+          "sha": "d198b20a61a65d74b258d978daecdcc090e7539b",
+          "lastSyncedAt": "2026-10-13T05:01:12.762Z"
+        }
+      ]
+    },
     {
       "frontendId": "3216",
       "title": "Lexicographically Smallest String After a Swap",
