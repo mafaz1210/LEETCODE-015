@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-13T05:17:53.175Z",
+  "updatedAt": "2026-10-13T05:18:49.601Z",
   "problems": [
     {
       "frontendId": "53",
@@ -84,6 +84,26 @@
           "path": "2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.py",
           "sha": "500b776fb982fc12344e012377a182bfc20f3705",
           "lastSyncedAt": "2026-10-13T05:01:31.502Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3129",
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "problemName": "3129-find-all-possible-stable-binary-arrays-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+      "folderPath": "3129-find-all-possible-stable-binary-arrays-i/",
+      "readmePath": "3129-find-all-possible-stable-binary-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3129-find-all-possible-stable-binary-arrays-i.py",
+          "path": "3129-find-all-possible-stable-binary-arrays-i/3129-find-all-possible-stable-binary-arrays-i.py",
+          "sha": "5783fe29211b39dbc0068a4420c409959422a805",
+          "lastSyncedAt": "2026-10-13T05:18:49.601Z"
         }
       ]
     }
