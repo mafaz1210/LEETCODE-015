@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:05:31.628Z",
+  "updatedAt": "2026-10-13T05:06:08.292Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0709-to-lower-case/0709-to-lower-case.py",
           "sha": "2b5e728dae371b2b189d1e4c9e99e91545eef6e7",
           "lastSyncedAt": "2026-10-13T04:57:48.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1221",
+      "title": "Split a String in Balanced Strings",
+      "slug": "split-a-string-in-balanced-strings",
+      "problemName": "1221-split-a-string-in-balanced-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-a-string-in-balanced-strings/",
+      "folderPath": "1221-split-a-string-in-balanced-strings/",
+      "readmePath": "1221-split-a-string-in-balanced-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1221-split-a-string-in-balanced-strings.py",
+          "path": "1221-split-a-string-in-balanced-strings/1221-split-a-string-in-balanced-strings.py",
+          "sha": "e75e422070180984c50d6cdc1d7fa23e4e4b1716",
+          "lastSyncedAt": "2026-10-13T05:06:08.292Z"
         }
       ]
     },
