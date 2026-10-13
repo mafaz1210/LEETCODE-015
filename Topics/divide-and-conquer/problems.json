@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:08:28.329Z",
+  "updatedAt": "2026-10-13T05:09:26.044Z",
   "problems": [
     {
       "frontendId": "307",
@@ -24,6 +24,26 @@
           "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
           "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
           "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2343",
+      "title": "Query Kth Smallest Trimmed Number",
+      "slug": "query-kth-smallest-trimmed-number",
+      "problemName": "2343-query-kth-smallest-trimmed-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "folderPath": "2343-query-kth-smallest-trimmed-number/",
+      "readmePath": "2343-query-kth-smallest-trimmed-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2343-query-kth-smallest-trimmed-number.py",
+          "path": "2343-query-kth-smallest-trimmed-number/2343-query-kth-smallest-trimmed-number.py",
+          "sha": "19e7cdee3cb8418079609e3ce27da9da1ecd01cd",
+          "lastSyncedAt": "2026-10-13T05:09:26.044Z"
         }
       ]
     }
