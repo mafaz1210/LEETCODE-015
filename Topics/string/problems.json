@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:06:08.292Z",
+  "updatedAt": "2026-10-13T05:07:06.882Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "0709-to-lower-case/0709-to-lower-case.py",
           "sha": "2b5e728dae371b2b189d1e4c9e99e91545eef6e7",
           "lastSyncedAt": "2026-10-13T04:57:48.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "942",
+      "title": "DI String Match",
+      "slug": "di-string-match",
+      "problemName": "0942-di-string-match",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/di-string-match/",
+      "folderPath": "0942-di-string-match/",
+      "readmePath": "0942-di-string-match/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0942-di-string-match.py",
+          "path": "0942-di-string-match/0942-di-string-match.py",
+          "sha": "2f53d28fb6993f7d6568ca14b54e3f11d0a5f40b",
+          "lastSyncedAt": "2026-10-13T05:07:06.882Z"
         }
       ]
     },
