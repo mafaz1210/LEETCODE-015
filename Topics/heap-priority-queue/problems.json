@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-13T05:03:16.930Z",
+  "updatedAt": "2026-10-13T05:03:36.632Z",
   "problems": [
+    {
+      "frontendId": "2335",
+      "title": "Minimum Amount of Time to Fill Cups",
+      "slug": "minimum-amount-of-time-to-fill-cups",
+      "problemName": "2335-minimum-amount-of-time-to-fill-cups",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+      "folderPath": "2335-minimum-amount-of-time-to-fill-cups/",
+      "readmePath": "2335-minimum-amount-of-time-to-fill-cups/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2335-minimum-amount-of-time-to-fill-cups.py",
+          "path": "2335-minimum-amount-of-time-to-fill-cups/2335-minimum-amount-of-time-to-fill-cups.py",
+          "sha": "a42226dd19d968d3a583c7fc3c307e51fc06ac7b",
+          "lastSyncedAt": "2026-10-13T05:03:36.632Z"
+        }
+      ]
+    },
     {
       "frontendId": "2357",
       "title": "Make Array Zero by Subtracting Equal Amounts",
