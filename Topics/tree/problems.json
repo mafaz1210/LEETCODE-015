@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T05:18:20.313Z",
+  "updatedAt": "2026-10-13T05:18:34.625Z",
   "problems": [
+    {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problemName": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "folderPath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "readmePath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+          "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+          "sha": "65008c0876627b7471383b73ba7f562fd3818465",
+          "lastSyncedAt": "2026-10-13T05:18:34.625Z"
+        }
+      ]
+    },
     {
       "frontendId": "106",
       "title": "Construct Binary Tree from Inorder and Postorder Traversal",
