@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
+  },
+  "updatedAt": "2026-10-13T05:03:16.930Z",
+  "problems": [
+    {
+      "frontendId": "2357",
+      "title": "Make Array Zero by Subtracting Equal Amounts",
+      "slug": "make-array-zero-by-subtracting-equal-amounts",
+      "problemName": "2357-make-array-zero-by-subtracting-equal-amounts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/",
+      "folderPath": "2357-make-array-zero-by-subtracting-equal-amounts/",
+      "readmePath": "2357-make-array-zero-by-subtracting-equal-amounts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "path": "2357-make-array-zero-by-subtracting-equal-amounts/2357-make-array-zero-by-subtracting-equal-amounts.py",
+          "sha": "76b9d23c51e7cf492b557fbe5026fd1bfcf47a0b",
+          "lastSyncedAt": "2026-10-13T05:03:16.930Z"
+        }
+      ]
+    }
+  ]
+}
