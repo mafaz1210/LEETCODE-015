@@ -5,8 +5,28 @@
     "name": "Counting Sort",
     "tagId": "61072"
   },
-  "updatedAt": "2026-10-13T05:04:34.488Z",
+  "updatedAt": "2026-10-13T05:07:45.071Z",
   "problems": [
+    {
+      "frontendId": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "problemName": "0561-array-partition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/array-partition/",
+      "folderPath": "0561-array-partition/",
+      "readmePath": "0561-array-partition/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0561-array-partition.py",
+          "path": "0561-array-partition/0561-array-partition.py",
+          "sha": "0f1ba9566f83b01b8b14188966335ba4c04fc90e",
+          "lastSyncedAt": "2026-10-13T05:07:45.071Z"
+        }
+      ]
+    },
     {
       "frontendId": "2037",
       "title": "Minimum Number of Moves to Seat Everyone",
