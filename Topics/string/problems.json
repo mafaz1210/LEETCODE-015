@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:22:01.720Z",
+  "updatedAt": "2026-10-13T05:22:10.426Z",
   "problems": [
     {
       "frontendId": "14",
@@ -64,6 +64,26 @@
           "path": "0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "bc28d90ae6b51612a7d2b84c6dac36905bbd54dc",
           "lastSyncedAt": "2026-10-13T05:14:48.533Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0405-convert-a-number-to-hexadecimal.cpp",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.cpp",
+          "sha": "3cbc9f3aa7dc212e3d3a627440dcb0c76053e0a2",
+          "lastSyncedAt": "2026-10-13T05:22:10.426Z"
         }
       ]
     },
