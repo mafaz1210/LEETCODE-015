@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T05:12:13.336Z",
+  "updatedAt": "2026-10-13T05:13:22.814Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0409-longest-palindrome/0409-longest-palindrome.py",
           "sha": "74792f0467f84171f048dfc943fef834e5f2b254",
           "lastSyncedAt": "2026-10-13T05:08:11.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "889",
+      "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+      "problemName": "0889-construct-binary-tree-from-preorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+      "folderPath": "0889-construct-binary-tree-from-preorder-and-postorder-traversal/",
+      "readmePath": "0889-construct-binary-tree-from-preorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0889-construct-binary-tree-from-preorder-and-postorder-traversal.py",
+          "path": "0889-construct-binary-tree-from-preorder-and-postorder-traversal/0889-construct-binary-tree-from-preorder-and-postorder-traversal.py",
+          "sha": "c48d9cfd9cbb5219dd2b7fd66909aa0d13d69632",
+          "lastSyncedAt": "2026-10-13T05:13:22.814Z"
         }
       ]
     },
