@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:04:26.400Z",
+  "updatedAt": "2026-10-13T05:04:34.488Z",
   "problems": [
+    {
+      "frontendId": "2037",
+      "title": "Minimum Number of Moves to Seat Everyone",
+      "slug": "minimum-number-of-moves-to-seat-everyone",
+      "problemName": "2037-minimum-number-of-moves-to-seat-everyone",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/",
+      "folderPath": "2037-minimum-number-of-moves-to-seat-everyone/",
+      "readmePath": "2037-minimum-number-of-moves-to-seat-everyone/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2037-minimum-number-of-moves-to-seat-everyone.py",
+          "path": "2037-minimum-number-of-moves-to-seat-everyone/2037-minimum-number-of-moves-to-seat-everyone.py",
+          "sha": "7ffc6c38f90d153018b42b5954ffa42404adc7ae",
+          "lastSyncedAt": "2026-10-13T05:04:34.488Z"
+        }
+      ]
+    },
     {
       "frontendId": "2078",
       "title": "Two Furthest Houses With Different Colors",
