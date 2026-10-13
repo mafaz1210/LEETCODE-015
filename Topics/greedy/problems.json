@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:01:22.491Z",
+  "updatedAt": "2026-10-13T05:01:31.502Z",
   "problems": [
+    {
+      "frontendId": "2900",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "problemName": "2900-longest-unequal-adjacent-groups-subsequence-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
+      "folderPath": "2900-longest-unequal-adjacent-groups-subsequence-i/",
+      "readmePath": "2900-longest-unequal-adjacent-groups-subsequence-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.py",
+          "path": "2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.py",
+          "sha": "500b776fb982fc12344e012377a182bfc20f3705",
+          "lastSyncedAt": "2026-10-13T05:01:31.502Z"
+        }
+      ]
+    },
     {
       "frontendId": "3014",
       "title": "Minimum Number of Pushes to Type Word I",
