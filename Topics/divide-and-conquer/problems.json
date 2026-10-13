@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:10:56.167Z",
+  "updatedAt": "2026-10-13T05:11:21.664Z",
   "problems": [
     {
       "frontendId": "307",
@@ -144,6 +144,26 @@
           "path": "3537-fill-a-special-grid/3537-fill-a-special-grid.py",
           "sha": "71fa69ab3b0589619f4e79c1e8b1e699faa0a08d",
           "lastSyncedAt": "2026-10-13T05:10:04.040Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3653",
+      "title": "XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "problemName": "3653-xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "folderPath": "3653-xor-after-range-multiplication-queries-i/",
+      "readmePath": "3653-xor-after-range-multiplication-queries-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3653-xor-after-range-multiplication-queries-i.py",
+          "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.py",
+          "sha": "58f4a6d015d75440f9d12ad85badbcc55035392a",
+          "lastSyncedAt": "2026-10-13T05:11:21.664Z"
         }
       ]
     }
