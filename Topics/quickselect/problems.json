@@ -5,7 +5,7 @@
     "name": "Quickselect",
     "tagId": "61069"
   },
-  "updatedAt": "2026-10-13T05:11:34.359Z",
+  "updatedAt": "2026-10-13T05:15:02.358Z",
   "problems": [
     {
       "frontendId": "973",
@@ -84,6 +84,26 @@
           "path": "2343-query-kth-smallest-trimmed-number/2343-query-kth-smallest-trimmed-number.py",
           "sha": "19e7cdee3cb8418079609e3ce27da9da1ecd01cd",
           "lastSyncedAt": "2026-10-13T05:09:26.044Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3759",
+      "title": "Count Elements With at Least K Greater Values",
+      "slug": "count-elements-with-at-least-k-greater-values",
+      "problemName": "3759-count-elements-with-at-least-k-greater-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+      "folderPath": "3759-count-elements-with-at-least-k-greater-values/",
+      "readmePath": "3759-count-elements-with-at-least-k-greater-values/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3759-count-elements-with-at-least-k-greater-values.py",
+          "path": "3759-count-elements-with-at-least-k-greater-values/3759-count-elements-with-at-least-k-greater-values.py",
+          "sha": "af86a11e48a00211afdee6899cbfc006678b968d",
+          "lastSyncedAt": "2026-10-13T05:15:02.358Z"
         }
       ]
     }
