@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:19:59.751Z",
+  "updatedAt": "2026-10-13T05:20:22.283Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "2389-longest-subsequence-with-limited-sum/2389-longest-subsequence-with-limited-sum.py",
           "sha": "0a1ebe935bb03e9ad17a6ba95a254f31595b84b2",
           "lastSyncedAt": "2026-10-13T05:02:54.959Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "2536-increment-submatrices-by-one/",
+      "readmePath": "2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2536-increment-submatrices-by-one.cpp",
+          "path": "2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.cpp",
+          "sha": "ff8d53fa0f39ae763d8bc3e91cbfece87853d7fc",
+          "lastSyncedAt": "2026-10-13T05:20:22.283Z"
         }
       ]
     },
