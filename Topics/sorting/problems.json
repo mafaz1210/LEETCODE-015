@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:05:51.191Z",
+  "updatedAt": "2026-10-13T05:06:37.271Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1005",
+      "title": "Maximize Sum Of Array After K Negations",
+      "slug": "maximize-sum-of-array-after-k-negations",
+      "problemName": "1005-maximize-sum-of-array-after-k-negations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/",
+      "folderPath": "1005-maximize-sum-of-array-after-k-negations/",
+      "readmePath": "1005-maximize-sum-of-array-after-k-negations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1005-maximize-sum-of-array-after-k-negations.py",
+          "path": "1005-maximize-sum-of-array-after-k-negations/1005-maximize-sum-of-array-after-k-negations.py",
+          "sha": "71212c726cf9fec4075c1c1f225b61f39ff18247",
+          "lastSyncedAt": "2026-10-13T05:06:37.271Z"
         }
       ]
     },
