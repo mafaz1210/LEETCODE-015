@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-13T05:22:10.426Z",
+  "updatedAt": "2026-10-13T05:22:21.281Z",
   "problems": [
     {
       "frontendId": "190",
@@ -64,6 +64,26 @@
           "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.cpp",
           "sha": "3cbc9f3aa7dc212e3d3a627440dcb0c76053e0a2",
           "lastSyncedAt": "2026-10-13T05:22:10.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "476",
+      "title": "Number Complement",
+      "slug": "number-complement",
+      "problemName": "0476-number-complement",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
+      "folderPath": "0476-number-complement/",
+      "readmePath": "0476-number-complement/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0476-number-complement.cpp",
+          "path": "0476-number-complement/0476-number-complement.cpp",
+          "sha": "c7b8296de200113846f195b34eafdddecf5d2e7a",
+          "lastSyncedAt": "2026-10-13T05:22:21.281Z"
         }
       ]
     },
