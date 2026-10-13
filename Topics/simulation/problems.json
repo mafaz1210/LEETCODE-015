@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-13T05:11:21.664Z",
+  "updatedAt": "2026-10-13T05:22:27.629Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "0067-add-binary/0067-add-binary.cpp",
+          "sha": "4b8837fe2f812085cdd90f17be87cb721c7a2962",
+          "lastSyncedAt": "2026-10-13T05:22:27.629Z"
+        }
+      ]
+    },
     {
       "frontendId": "2357",
       "title": "Make Array Zero by Subtracting Equal Amounts",
