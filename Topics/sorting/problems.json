@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T05:00:28.114Z",
+  "updatedAt": "2026-10-13T05:01:12.762Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3074",
+      "title": "Apple Redistribution into Boxes",
+      "slug": "apple-redistribution-into-boxes",
+      "problemName": "3074-apple-redistribution-into-boxes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+      "folderPath": "3074-apple-redistribution-into-boxes/",
+      "readmePath": "3074-apple-redistribution-into-boxes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3074-apple-redistribution-into-boxes.py",
+          "path": "3074-apple-redistribution-into-boxes/3074-apple-redistribution-into-boxes.py",
+          "sha": "d198b20a61a65d74b258d978daecdcc090e7539b",
+          "lastSyncedAt": "2026-10-13T05:01:12.762Z"
         }
       ]
     },
