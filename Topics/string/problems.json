@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:03:47.999Z",
+  "updatedAt": "2026-10-13T05:03:58.973Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "f037ecc1a2ddd41845f2eb2fd8347ac1aebd87e2",
           "lastSyncedAt": "2026-10-13T04:58:59.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2224",
+      "title": "Minimum Number of Operations to Convert Time",
+      "slug": "minimum-number-of-operations-to-convert-time",
+      "problemName": "2224-minimum-number-of-operations-to-convert-time",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/",
+      "folderPath": "2224-minimum-number-of-operations-to-convert-time/",
+      "readmePath": "2224-minimum-number-of-operations-to-convert-time/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2224-minimum-number-of-operations-to-convert-time.py",
+          "path": "2224-minimum-number-of-operations-to-convert-time/2224-minimum-number-of-operations-to-convert-time.py",
+          "sha": "be4f94ecb3deb834caff616f1cff5fed4d58a208",
+          "lastSyncedAt": "2026-10-13T05:03:58.973Z"
         }
       ]
     },
