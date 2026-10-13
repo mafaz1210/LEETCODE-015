@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-13T05:02:54.959Z",
+  "updatedAt": "2026-10-13T05:10:34.451Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -24,6 +24,26 @@
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "11863c690abbfbd9518459650cfb744b2f223892",
           "lastSyncedAt": "2026-10-13T04:59:08.857Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1738",
+      "title": "Find Kth Largest XOR Coordinate Value",
+      "slug": "find-kth-largest-xor-coordinate-value",
+      "problemName": "1738-find-kth-largest-xor-coordinate-value",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/",
+      "folderPath": "1738-find-kth-largest-xor-coordinate-value/",
+      "readmePath": "1738-find-kth-largest-xor-coordinate-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1738-find-kth-largest-xor-coordinate-value.py",
+          "path": "1738-find-kth-largest-xor-coordinate-value/1738-find-kth-largest-xor-coordinate-value.py",
+          "sha": "bed66517aa91527fc13e09aa7b1441b3e18a5804",
+          "lastSyncedAt": "2026-10-13T05:10:34.451Z"
         }
       ]
     },
