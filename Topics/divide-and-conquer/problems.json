@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:10:34.451Z",
+  "updatedAt": "2026-10-13T05:10:56.167Z",
   "problems": [
     {
       "frontendId": "307",
@@ -24,6 +24,26 @@
           "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
           "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
           "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1382-balance-a-binary-search-tree.py",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.py",
+          "sha": "120ddf28d6a680e8fd76375c643d69f2198afc31",
+          "lastSyncedAt": "2026-10-13T05:10:56.167Z"
         }
       ]
     },
