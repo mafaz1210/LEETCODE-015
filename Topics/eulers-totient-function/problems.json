@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "eulers-totient-function",
+    "name": "Euler's Totient Function",
+    "tagId": "122046"
+  },
+  "updatedAt": "2026-10-13T05:15:19.251Z",
+  "problems": [
+    {
+      "frontendId": "372",
+      "title": "Super Pow",
+      "slug": "super-pow",
+      "problemName": "0372-super-pow",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/super-pow/",
+      "folderPath": "0372-super-pow/",
+      "readmePath": "0372-super-pow/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0372-super-pow.py",
+          "path": "0372-super-pow/0372-super-pow.py",
+          "sha": "9416b0c8beb8d0334dc306aa117297e36ce6808d",
+          "lastSyncedAt": "2026-10-13T05:15:19.251Z"
+        }
+      ]
+    }
+  ]
+}
