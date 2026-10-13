@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:22:10.426Z",
+  "updatedAt": "2026-10-13T05:22:27.629Z",
   "problems": [
     {
       "frontendId": "14",
@@ -44,6 +44,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "232e154d8013f2a096bfe450b7b5b88f34e2bd5c",
           "lastSyncedAt": "2026-10-13T04:58:07.517Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "0067-add-binary/0067-add-binary.cpp",
+          "sha": "4b8837fe2f812085cdd90f17be87cb721c7a2962",
+          "lastSyncedAt": "2026-10-13T05:22:27.629Z"
         }
       ]
     },
