@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:04:48.539Z",
+  "updatedAt": "2026-10-13T05:04:59.170Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "f037ecc1a2ddd41845f2eb2fd8347ac1aebd87e2",
           "lastSyncedAt": "2026-10-13T04:58:59.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1974",
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "slug": "minimum-time-to-type-word-using-special-typewriter",
+      "problemName": "1974-minimum-time-to-type-word-using-special-typewriter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/",
+      "folderPath": "1974-minimum-time-to-type-word-using-special-typewriter/",
+      "readmePath": "1974-minimum-time-to-type-word-using-special-typewriter/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1974-minimum-time-to-type-word-using-special-typewriter.py",
+          "path": "1974-minimum-time-to-type-word-using-special-typewriter/1974-minimum-time-to-type-word-using-special-typewriter.py",
+          "sha": "66e6cfaac1752da50abb733025308745cff5b6d4",
+          "lastSyncedAt": "2026-10-13T05:04:59.170Z"
         }
       ]
     },
