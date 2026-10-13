@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:15:02.358Z",
+  "updatedAt": "2026-10-13T05:15:19.251Z",
   "problems": [
     {
       "frontendId": "307",
@@ -24,6 +24,26 @@
           "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
           "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
           "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "372",
+      "title": "Super Pow",
+      "slug": "super-pow",
+      "problemName": "0372-super-pow",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/super-pow/",
+      "folderPath": "0372-super-pow/",
+      "readmePath": "0372-super-pow/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0372-super-pow.py",
+          "path": "0372-super-pow/0372-super-pow.py",
+          "sha": "9416b0c8beb8d0334dc306aa117297e36ce6808d",
+          "lastSyncedAt": "2026-10-13T05:15:19.251Z"
         }
       ]
     },
