@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:01:31.502Z",
+  "updatedAt": "2026-10-13T05:01:43.394Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.cpp",
           "sha": "f037ecc1a2ddd41845f2eb2fd8347ac1aebd87e2",
           "lastSyncedAt": "2026-10-13T04:58:59.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2864",
+      "title": "Maximum Odd Binary Number",
+      "slug": "maximum-odd-binary-number",
+      "problemName": "2864-maximum-odd-binary-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-odd-binary-number/",
+      "folderPath": "2864-maximum-odd-binary-number/",
+      "readmePath": "2864-maximum-odd-binary-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2864-maximum-odd-binary-number.py",
+          "path": "2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py",
+          "sha": "a864e74d6c8a8e099167f621263085925ceeb255",
+          "lastSyncedAt": "2026-10-13T05:01:43.394Z"
         }
       ]
     },
