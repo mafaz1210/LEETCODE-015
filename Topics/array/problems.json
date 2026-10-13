@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:20:43.478Z",
+  "updatedAt": "2026-10-13T05:21:04.075Z",
   "problems": [
     {
       "frontendId": "1",
@@ -404,6 +404,26 @@
           "path": "0455-assign-cookies/0455-assign-cookies.py",
           "sha": "7fafbe8ee192906ec6898dd09242a69542b43882",
           "lastSyncedAt": "2026-10-13T05:07:57.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "problemName": "0474-ones-and-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+      "folderPath": "0474-ones-and-zeroes/",
+      "readmePath": "0474-ones-and-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0474-ones-and-zeroes.cpp",
+          "path": "0474-ones-and-zeroes/0474-ones-and-zeroes.cpp",
+          "sha": "e875ee570ddf404b016293735e763e11d4f4a745",
+          "lastSyncedAt": "2026-10-13T05:21:04.075Z"
         }
       ]
     },
