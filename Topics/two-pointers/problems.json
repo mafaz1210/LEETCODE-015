@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:07:57.156Z",
+  "updatedAt": "2026-10-13T05:17:21.323Z",
   "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0148-sort-list.py",
+          "path": "0148-sort-list/0148-sort-list.py",
+          "sha": "15747edb519396f1ee0b532ba9c4daf94278bd79",
+          "lastSyncedAt": "2026-10-13T05:17:21.323Z"
+        }
+      ]
+    },
     {
       "frontendId": "349",
       "title": "Intersection of Two Arrays",
