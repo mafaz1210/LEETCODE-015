@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:00:53.611Z",
+  "updatedAt": "2026-10-13T05:01:06.002Z",
   "problems": [
+    {
+      "frontendId": "3216",
+      "title": "Lexicographically Smallest String After a Swap",
+      "slug": "lexicographically-smallest-string-after-a-swap",
+      "problemName": "3216-lexicographically-smallest-string-after-a-swap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/",
+      "folderPath": "3216-lexicographically-smallest-string-after-a-swap/",
+      "readmePath": "3216-lexicographically-smallest-string-after-a-swap/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3216-lexicographically-smallest-string-after-a-swap.py",
+          "path": "3216-lexicographically-smallest-string-after-a-swap/3216-lexicographically-smallest-string-after-a-swap.py",
+          "sha": "f5447396775316a7a3ce5938ed19e833704b6a30",
+          "lastSyncedAt": "2026-10-13T05:01:06.002Z"
+        }
+      ]
+    },
     {
       "frontendId": "3402",
       "title": "Minimum Operations to Make Columns Strictly Increasing",
