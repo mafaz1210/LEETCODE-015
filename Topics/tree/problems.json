@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T05:13:58.968Z",
+  "updatedAt": "2026-10-13T05:14:22.927Z",
   "problems": [
+    {
+      "frontendId": "558",
+      "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+      "slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+      "problemName": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+      "folderPath": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/",
+      "readmePath": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py",
+          "path": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py",
+          "sha": "ec97acb5313f7a2394d1c843e453e74193a715cf",
+          "lastSyncedAt": "2026-10-13T05:14:22.927Z"
+        }
+      ]
+    },
     {
       "frontendId": "654",
       "title": "Maximum Binary Tree",
