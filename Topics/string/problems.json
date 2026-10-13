@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-13T05:09:03.512Z",
+  "updatedAt": "2026-10-13T05:09:26.044Z",
   "problems": [
     {
       "frontendId": "14",
@@ -284,6 +284,26 @@
           "path": "2259-remove-digit-from-number-to-maximize-result/2259-remove-digit-from-number-to-maximize-result.py",
           "sha": "75a1efed702ceab757c337a6b1d7a7e466b1810f",
           "lastSyncedAt": "2026-10-13T05:03:47.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2343",
+      "title": "Query Kth Smallest Trimmed Number",
+      "slug": "query-kth-smallest-trimmed-number",
+      "problemName": "2343-query-kth-smallest-trimmed-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/query-kth-smallest-trimmed-number/",
+      "folderPath": "2343-query-kth-smallest-trimmed-number/",
+      "readmePath": "2343-query-kth-smallest-trimmed-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2343-query-kth-smallest-trimmed-number.py",
+          "path": "2343-query-kth-smallest-trimmed-number/2343-query-kth-smallest-trimmed-number.py",
+          "sha": "19e7cdee3cb8418079609e3ce27da9da1ecd01cd",
+          "lastSyncedAt": "2026-10-13T05:09:26.044Z"
         }
       ]
     },
