@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:07:18.644Z",
+  "updatedAt": "2026-10-13T05:07:36.465Z",
   "problems": [
     {
       "frontendId": "121",
@@ -44,6 +44,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0605-can-place-flowers.py",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.py",
+          "sha": "716117a2d20c4bc17af4456ecde2409b4f220161",
+          "lastSyncedAt": "2026-10-13T05:07:36.465Z"
         }
       ]
     },
