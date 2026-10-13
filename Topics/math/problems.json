@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:22:01.720Z",
+  "updatedAt": "2026-10-13T05:22:10.426Z",
   "problems": [
     {
       "frontendId": "66",
@@ -44,6 +44,26 @@
           "path": "0372-super-pow/0372-super-pow.py",
           "sha": "9416b0c8beb8d0334dc306aa117297e36ce6808d",
           "lastSyncedAt": "2026-10-13T05:15:19.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0405-convert-a-number-to-hexadecimal.cpp",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.cpp",
+          "sha": "3cbc9f3aa7dc212e3d3a627440dcb0c76053e0a2",
+          "lastSyncedAt": "2026-10-13T05:22:10.426Z"
         }
       ]
     },
