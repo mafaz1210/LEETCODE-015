@@ -5,8 +5,28 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-13T05:18:03.312Z",
+  "updatedAt": "2026-10-13T05:18:20.313Z",
   "problems": [
+    {
+      "frontendId": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "problemName": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "folderPath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "readmePath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
+          "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
+          "sha": "5b6c59b2e0f6c09e11dfb9c56b243e705805a236",
+          "lastSyncedAt": "2026-10-13T05:18:20.313Z"
+        }
+      ]
+    },
     {
       "frontendId": "108",
       "title": "Convert Sorted Array to Binary Search Tree",
