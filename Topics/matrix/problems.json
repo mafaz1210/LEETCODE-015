@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-13T05:16:14.357Z",
+  "updatedAt": "2026-10-13T05:20:22.283Z",
   "problems": [
     {
       "frontendId": "240",
@@ -84,6 +84,26 @@
           "path": "1738-find-kth-largest-xor-coordinate-value/1738-find-kth-largest-xor-coordinate-value.py",
           "sha": "bed66517aa91527fc13e09aa7b1441b3e18a5804",
           "lastSyncedAt": "2026-10-13T05:10:34.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "2536-increment-submatrices-by-one/",
+      "readmePath": "2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2536-increment-submatrices-by-one.cpp",
+          "path": "2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.cpp",
+          "sha": "ff8d53fa0f39ae763d8bc3e91cbfece87853d7fc",
+          "lastSyncedAt": "2026-10-13T05:20:22.283Z"
         }
       ]
     },
