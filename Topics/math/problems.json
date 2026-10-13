@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:06:00.527Z",
+  "updatedAt": "2026-10-13T05:06:18.842Z",
   "problems": [
+    {
+      "frontendId": "1217",
+      "title": "Minimum Cost to Move Chips to The Same Position",
+      "slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "problemName": "1217-minimum-cost-to-move-chips-to-the-same-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/",
+      "folderPath": "1217-minimum-cost-to-move-chips-to-the-same-position/",
+      "readmePath": "1217-minimum-cost-to-move-chips-to-the-same-position/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "path": "1217-minimum-cost-to-move-chips-to-the-same-position/1217-minimum-cost-to-move-chips-to-the-same-position.py",
+          "sha": "83daafe35c0036e1c2d0024f5ab682a554ed3d3d",
+          "lastSyncedAt": "2026-10-13T05:06:18.842Z"
+        }
+      ]
+    },
     {
       "frontendId": "1281",
       "title": "Subtract the Product and Sum of Digits of an Integer",
