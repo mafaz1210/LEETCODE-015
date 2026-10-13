@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:13:58.968Z",
+  "updatedAt": "2026-10-13T05:14:22.927Z",
   "problems": [
     {
       "frontendId": "307",
@@ -24,6 +24,26 @@
           "path": "0307-range-sum-query-mutable/0307-range-sum-query-mutable.py",
           "sha": "c3a747888e085622e9defc8f29c7cede1eae5572",
           "lastSyncedAt": "2026-10-13T05:08:28.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "558",
+      "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+      "slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+      "problemName": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+      "folderPath": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/",
+      "readmePath": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py",
+          "path": "0558-logical-or-of-two-binary-grids-represented-as-quad-trees/0558-logical-or-of-two-binary-grids-represented-as-quad-trees.py",
+          "sha": "ec97acb5313f7a2394d1c843e453e74193a715cf",
+          "lastSyncedAt": "2026-10-13T05:14:22.927Z"
         }
       ]
     },
