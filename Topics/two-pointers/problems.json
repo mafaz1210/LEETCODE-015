@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:00:13.675Z",
+  "updatedAt": "2026-10-13T05:02:01.303Z",
   "problems": [
     {
       "frontendId": "349",
@@ -24,6 +24,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "5ca9f43894015d85385f6a6caf526783da2debe8",
           "lastSyncedAt": "2026-10-13T04:58:20.727Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2697",
+      "title": "Lexicographically Smallest Palindrome",
+      "slug": "lexicographically-smallest-palindrome",
+      "problemName": "2697-lexicographically-smallest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindrome/",
+      "folderPath": "2697-lexicographically-smallest-palindrome/",
+      "readmePath": "2697-lexicographically-smallest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2697-lexicographically-smallest-palindrome.py",
+          "path": "2697-lexicographically-smallest-palindrome/2697-lexicographically-smallest-palindrome.py",
+          "sha": "24df90760765c6d3c14e47b2c0d41a1bebf230bb",
+          "lastSyncedAt": "2026-10-13T05:02:01.303Z"
         }
       ]
     },
