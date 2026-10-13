@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:01:43.394Z",
+  "updatedAt": "2026-10-13T05:02:21.167Z",
   "problems": [
     {
       "frontendId": "1281",
@@ -44,6 +44,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "94435fed386daea65b0757348d5d584ae7ba2a9a",
           "lastSyncedAt": "2026-10-13T04:59:27.301Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2600",
+      "title": "K Items With the Maximum Sum",
+      "slug": "k-items-with-the-maximum-sum",
+      "problemName": "2600-k-items-with-the-maximum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
+      "folderPath": "2600-k-items-with-the-maximum-sum/",
+      "readmePath": "2600-k-items-with-the-maximum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2600-k-items-with-the-maximum-sum.py",
+          "path": "2600-k-items-with-the-maximum-sum/2600-k-items-with-the-maximum-sum.py",
+          "sha": "c381c98e6851d69338ef660502dc1f8e6bd47b50",
+          "lastSyncedAt": "2026-10-13T05:02:21.167Z"
         }
       ]
     },
