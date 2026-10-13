@@ -5,8 +5,28 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-13T05:02:28.640Z",
+  "updatedAt": "2026-10-13T05:02:36.937Z",
   "problems": [
+    {
+      "frontendId": "2578",
+      "title": "Split With Minimum Sum",
+      "slug": "split-with-minimum-sum",
+      "problemName": "2578-split-with-minimum-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/split-with-minimum-sum/",
+      "folderPath": "2578-split-with-minimum-sum/",
+      "readmePath": "2578-split-with-minimum-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2578-split-with-minimum-sum.py",
+          "path": "2578-split-with-minimum-sum/2578-split-with-minimum-sum.py",
+          "sha": "455a516f89b173660240aac448561a4e8cfd6f3f",
+          "lastSyncedAt": "2026-10-13T05:02:36.937Z"
+        }
+      ]
+    },
     {
       "frontendId": "2591",
       "title": "Distribute Money to Maximum Children",
