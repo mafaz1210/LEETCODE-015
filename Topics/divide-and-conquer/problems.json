@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T05:14:48.533Z",
+  "updatedAt": "2026-10-13T05:15:02.358Z",
   "problems": [
     {
       "frontendId": "307",
@@ -384,6 +384,26 @@
           "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
           "sha": "6517d3933bc8dcb7866c79b00d8fe003b042e411",
           "lastSyncedAt": "2026-10-13T05:13:38.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3759",
+      "title": "Count Elements With at Least K Greater Values",
+      "slug": "count-elements-with-at-least-k-greater-values",
+      "problemName": "3759-count-elements-with-at-least-k-greater-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/",
+      "folderPath": "3759-count-elements-with-at-least-k-greater-values/",
+      "readmePath": "3759-count-elements-with-at-least-k-greater-values/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3759-count-elements-with-at-least-k-greater-values.py",
+          "path": "3759-count-elements-with-at-least-k-greater-values/3759-count-elements-with-at-least-k-greater-values.py",
+          "sha": "af86a11e48a00211afdee6899cbfc006678b968d",
+          "lastSyncedAt": "2026-10-13T05:15:02.358Z"
         }
       ]
     }
