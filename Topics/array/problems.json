@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T05:21:23.931Z",
+  "updatedAt": "2026-10-29T06:17:45.507Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1464,6 +1464,26 @@
           "path": "3759-count-elements-with-at-least-k-greater-values/3759-count-elements-with-at-least-k-greater-values.py",
           "sha": "af86a11e48a00211afdee6899cbfc006678b968d",
           "lastSyncedAt": "2026-10-13T05:15:02.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3841-palindromic-path-queries-in-a-tree.py",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
+          "sha": "109e3ab9cadd42631b61aefbdb0031c1e4c55a6a",
+          "lastSyncedAt": "2026-10-29T06:17:45.507Z"
         }
       ]
     }
