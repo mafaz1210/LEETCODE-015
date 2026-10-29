@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T05:22:27.629Z",
+  "updatedAt": "2026-10-29T06:24:21.138Z",
   "problems": [
     {
       "frontendId": "66",
@@ -184,6 +184,26 @@
           "path": "0976-largest-perimeter-triangle/0976-largest-perimeter-triangle.py",
           "sha": "82c2491b567047486a9bdedabdff23f83fcb8d61",
           "lastSyncedAt": "2026-10-13T05:06:47.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1137",
+      "title": "N-th Tribonacci Number",
+      "slug": "n-th-tribonacci-number",
+      "problemName": "1137-n-th-tribonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+      "folderPath": "1137-n-th-tribonacci-number/",
+      "readmePath": "1137-n-th-tribonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1137-n-th-tribonacci-number.py",
+          "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py",
+          "sha": "121bc005ea73abf635a4856a35fb5587032f0f83",
+          "lastSyncedAt": "2026-10-29T06:24:21.138Z"
         }
       ]
     },
